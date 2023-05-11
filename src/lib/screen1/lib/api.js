@@ -1,0 +1,1 @@
+export const api_url = "https://jsonblob.com/api/jsonBlob";
